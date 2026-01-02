@@ -9,8 +9,9 @@
   <h1>Privacy Policy for Outfield Trainer</h1>
 
   <p>
-    Outfield Trainer respects your privacy. This Privacy Policy explains how we
-    collect, use, and protect your information when you use the Outfield Trainer app.
+    Outfield Trainer ("we", "our", or "us") respects your privacy. This Privacy Policy
+    explains how we collect, use, and protect your information when you use the
+    Outfield Trainer mobile application.
   </p>
 
   <h2>Information We Collect</h2>
@@ -24,17 +25,18 @@
   <ul>
     <li>To provide and improve app functionality</li>
     <li>To authenticate users and manage accounts</li>
-    <li>To personalize training features</li>
+    <li>To personalize training and recommendations</li>
     <li>To communicate important updates related to the app</li>
   </ul>
 
   <h2>Subscriptions & Payments</h2>
   <p>
     Outfield Trainer offers optional auto-renewing subscriptions.
-    All payments are processed securely by Apple through the App Store.
-    Outfield Trainer does not collect or store payment or credit card information.
+    Payments are processed securely by the app store provider
+    (such as the Apple App Store or Google Play Store).
   </p>
   <p>
+    Outfield Trainer does not collect or store payment or credit card information.
     Subscription status and entitlements are managed using RevenueCat.
   </p>
 
@@ -44,8 +46,9 @@
   </p>
   <ul>
     <li>Supabase (authentication and database services)</li>
-    <li>RevenueCat (subscription management)</li>
-    <li>Apple services (in-app purchases and related services)</li>
+    <li>RevenueCat (subscription and entitlement management)</li>
+    <li>Apple App Store services (in-app purchases on iOS)</li>
+    <li>Google Play Services and Google Play Billing (in-app purchases on Android)</li>
   </ul>
   <p>
     These services may collect information necessary to provide their functionality
@@ -54,24 +57,24 @@
 
   <h2>Data Security</h2>
   <p>
-    We take reasonable technical and organizational measures to protect your data
-    from unauthorized access, loss, or misuse.
+    We take reasonable technical and organizational measures to protect your
+    personal information from unauthorized access, loss, or misuse.
   </p>
 
   <h2>Data Retention</h2>
   <p>
-    We retain personal data only for as long as necessary to provide app functionality
+    Personal data is retained only as long as necessary to provide app functionality
     or until the user requests deletion.
   </p>
 
   <h2>Your Rights & Account Deletion</h2>
   <p>
     You have the right to access, update, or delete your personal information.
-    Account deletion can be initiated within the app or by contacting us at the
-    email address below.
+    You may request account deletion at any time within the app or by contacting
+    us at the email address below.
   </p>
 
-  <h2>Children’s Information</h2>
+  <h2>Children’s Privacy</h2>
   <p>
     Outfield Trainer does not knowingly collect personal information from children
     under the age of 13.
